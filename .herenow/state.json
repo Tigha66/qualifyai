@@ -2,6 +2,9 @@
   "publishes": {
     "timber-urchin-r2ap": {
       "siteUrl": "https://timber-urchin-r2ap.here.now/"
+    },
+    "crystal-mesa-cdrr": {
+      "siteUrl": "https://crystal-mesa-cdrr.here.now/"
     }
   }
 }
